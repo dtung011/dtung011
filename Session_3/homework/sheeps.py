@@ -13,21 +13,25 @@ print ("Month 1:")
 for i in range (len(Sheeps)):
     Sheeps[i] = Sheeps[i] + 50
 print (Sheeps)
+print ("My best sheep size:", max(Sheeps))
 
 print ("Month 2:")
 for i in range (len(Sheeps)):
     Sheeps[i] = Sheeps[i] + 50
 print (Sheeps)
+print ("My best sheep size:", max(Sheeps))
 
 print ("Month 3:")
 for i in range (len(Sheeps)):
     Sheeps[i] = Sheeps[i] + 50
 print (Sheeps)
+print ("My best sheep size:", max(Sheeps))
 
 print ("Month 4:")
 for i in range (len(Sheeps)):
     Sheeps[i] = Sheeps[i] + 50
 print (Sheeps)
+print ("My best sheep size:", max(Sheeps))
 
 #Total money after selling my sheeps;
 print ("My revenue: ")
