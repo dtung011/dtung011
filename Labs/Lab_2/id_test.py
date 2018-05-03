@@ -1,0 +1,1 @@
+soup.find("div", id = "main ", class_ = "main", role = "main")
